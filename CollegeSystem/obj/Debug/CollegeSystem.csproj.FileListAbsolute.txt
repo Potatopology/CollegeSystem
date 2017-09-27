@@ -1,0 +1,16 @@
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe.config
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.pdb
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.formEmployee.resources
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Main.resources
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.Properties.Resources.resources
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.csproj.GenerateResource.Cache
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.exe
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.pdb
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.formDepartment.resources
+C:\Users\Jerwin\Documents\C# Projects\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.formTeamLead.resources
+C:\Users\Jerwin\Downloads\To Git\CollegeSystem\CollegeSystem\bin\Debug\CollegeSystem.exe.config
+C:\Users\Jerwin\Downloads\To Git\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.exe
+C:\Users\Jerwin\Downloads\To Git\CollegeSystem\CollegeSystem\obj\Debug\CollegeSystem.pdb
